@@ -74,7 +74,7 @@ header > p{
     font-size: 1.2em;
     max-width: 500px;
     margin: auto;
-    margin-bottom: 30px;
+    padding-bottom: 50px;
     /*padding lateral para que não quebre a pagina*/
     padding-left: 10px;
     padding-right: 10px;
